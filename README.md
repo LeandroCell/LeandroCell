@@ -1,8 +1,8 @@
 [<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Leandro%20Paolicelli&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Computer%20Science%20Student%20%7C%20Java%20%26%20Backend%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Leandro%20Paolicelli&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Computer%20Science%20%7C%20Java%20%26%20Backend%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A855F7&center=true&vCenter=true&width=460&lines=Computer+Science+Student;Java+%26+PostgreSQL;Learning+in+Public;Building+one+project+at+a+time" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A855F7&center=true&vCenter=true&width=460&lines=Computer+Science;Java+%26+PostgreSQL;Learning+in+Public;Building+one+project+at+a+time" alt="Typing SVG" />
 
 <br/>
 
