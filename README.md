@@ -33,6 +33,16 @@ I am a Computer Science student and a Java & backend development enthusiast.
 
 ---
 
+### Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=LeandroCell&theme=react-dark&hide_border=true&bg_color=0D001A&color=A855F7&line=A855F7&point=ffffff" width="100%"/>
+
+</div>
+
+---
+
 ### Tech Stack
 
 <div align="center">
