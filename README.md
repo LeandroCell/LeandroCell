@@ -1,8 +1,8 @@
-[<div align="center">
+<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Leandro%20Paolicelli&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Computer%20Science%20%7C%20Java%20%26%20Backend%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Leandro%20Paolicelli&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Computer%20Science%20Student%20%7C%20Java%20%26%20Backend%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A855F7&center=true&vCenter=true&width=460&lines=Computer+Science;Java+%26+PostgreSQL;Learning+in+Public;Building+one+project+at+a+time" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A855F7&center=true&vCenter=true&width=460&lines=Computer+Science+Student;Java+%26+PostgreSQL;Learning+in+Public;Building+one+project+at+a+time" alt="Typing SVG" />
 
 <br/>
 
@@ -10,7 +10,7 @@
 ![Location](https://img.shields.io/badge/Based_in-Germany-6A0DAD?style=for-the-badge)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Coming_Soon-8A2BE2?style=for-the-badge&logo=googlechrome&logoColor=white)](#)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/leandro-paolicelli(https://www.linkedin.com/in/leandro-p-62a85b262?utm_source=share_via&utm_content=profile&utm_medium=member_ios))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/leandro-paolicelli)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Leandropaolicelli@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-LeandroCell-8A2BE2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LeandroCell)
 
@@ -163,4 +163,3 @@ Open To:
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
 
 </div>
-](https://www.linkedin.com/in/leandro-p-62a85b262?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
