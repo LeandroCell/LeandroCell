@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A855F7&center=true&vCenter=true&width=460&lines=Hi%2C+I'm+Leandro+%F0%9F%91%8B;Computer+Science+Student;Java+%26+Backend+Enthusiast" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A855F7&center=true&vCenter=true&width=460&lines=Hi%2C+I'm+Leandro+%F0%9F%91%8B;Computer+Science;Java+%26+Backend+Enthusiast" alt="Typing SVG" />
 
 I am a Computer Science student and a Java & backend development enthusiast.
 
