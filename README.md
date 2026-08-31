@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A855F7&center=true&vCenter=true&width=460&lines=Hi%2C+I'm+Leandro+%F0%9F%91%8B;Computer+Science;Java+%26+Backend+Enthusiast" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A855F7&center=true&vCenter=true&width=460&lines=Hi%2C+I'm+Leandro+%F0%9F%91%8B" alt="Typing SVG" />
 
-I am a Computer Science student and a Java & backend development enthusiast.
+I am a Computer Science student and I like Data Engineering and Network.
 
 </div>
 
@@ -13,7 +13,7 @@ I am a Computer Science student and a Java & backend development enthusiast.
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LeandroCell)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/leandro-paolicelli)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leandro-p-62a85b262/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Leandropaolicelli@gmail.com)
 
 </div>
@@ -47,7 +47,7 @@ I am a Computer Science student and a Java & backend development enthusiast.
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,postgres,git,github,idea,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java,python,sql,git,claude,idea,vscode&theme=dark" />
 
 </div>
 
