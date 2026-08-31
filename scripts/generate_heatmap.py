@@ -1,7 +1,8 @@
 """
-Generates a purple-themed GitHub contribution heatmap as a static SVG.
+Generates an animated GitHub-green contribution heatmap as a static SVG.
 Reads the same public contribution data GitHub itself shows on your profile
 (https://github.com/users/<username>/contributions) - no API token needed.
+The heatmap draws itself in column by column, and active days pulse gently.
 """
 import urllib.request
 import re
@@ -14,6 +15,7 @@ OUT_PATH = "contrib-heatmap.svg"
 PALETTE = ["#161b22", "#0e4429", "#006d32", "#26a641", "#39d353"]  # standard GitHub dark-theme green
 CELL = 11
 GAP = 3
+TOTAL_REVEAL = 1.4  # seconds for the whole grid to draw in
 
 
 def fetch(username):
@@ -49,12 +51,20 @@ def render_svg(grid, cols, out_path):
     rows = 7
     width = cols * (CELL + GAP) + GAP
     height = rows * (CELL + GAP) + GAP
+    step = TOTAL_REVEAL / cols
+
     parts = [f'<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 {width} {height}">']
     for (row, col), lvl in grid.items():
         x = GAP + col * (CELL + GAP)
         y = GAP + row * (CELL + GAP)
         color = PALETTE[lvl] if lvl < len(PALETTE) else PALETTE[-1]
-        parts.append(f'<rect x="{x}" y="{y}" width="{CELL}" height="{CELL}" rx="2" fill="{color}"/>')
+        delay = col * step
+        parts.append(f'<rect x="{x}" y="{y}" width="{CELL}" height="{CELL}" rx="2" fill="{color}" opacity="0">')
+        parts.append(f'<animate attributeName="opacity" from="0" to="1" dur="0.12s" begin="{delay:.2f}s" fill="freeze"/>')
+        if lvl > 0:
+            pulse_begin = TOTAL_REVEAL + (col % 5) * 0.15
+            parts.append(f'<animate attributeName="opacity" values="1;0.55;1" dur="2.2s" begin="{pulse_begin:.2f}s" repeatCount="indefinite"/>')
+        parts.append("</rect>")
     parts.append("</svg>")
     with open(out_path, "w") as f:
         f.write("\n".join(parts))
