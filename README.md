@@ -8,6 +8,23 @@ I am a Computer Science student and I like Data Engineering and Network.
 
 ---
 
+<div align="center">
+
+<table>
+<tr>
+<td><img src="https://raw.githubusercontent.com/LeandroCell/LeandroCell/main/leo-ascii.svg" width="380"/></td>
+<td align="center" width="220">
+
+<img src="https://raw.githubusercontent.com/LeandroCell/LeandroCell/main/leo-name-ascii.svg" width="200"/>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
 ### Connect With Me
 
 <div align="center">
@@ -33,11 +50,11 @@ I am a Computer Science student and I like Data Engineering and Network.
 
 ---
 
-### Contribution Snake
+### Contribution Activity
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/LeandroCell/LeandroCell/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/LeandroCell/LeandroCell/main/contrib-heatmap.svg" width="100%"/>
 
 </div>
 
