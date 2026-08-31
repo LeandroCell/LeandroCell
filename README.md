@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A855F7&center=true&vCenter=true&width=460&lines=Hi%2C+I'm+Leandro+%F0%9F%91%8B" alt="Typing SVG" />
+<h3><code>Leandro@github ~ $ whoami</code></h3>
 
 </div>
 
