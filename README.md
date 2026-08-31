@@ -23,7 +23,9 @@
 
 ---
 
-### Connect With Me
+<h3><code>Leandro@github ~ $ ./links.sh</code></h3>
+
+<p><b>Learning Network · Fullstack Developement · Trainee</b></p>
 
 <div align="center">
 
@@ -35,7 +37,7 @@
 
 ---
 
-### Contribution Activity
+<h3><code>Leandro@github ~ $ ./contributions.sh</code></h3>
 
 <div align="center">
 
