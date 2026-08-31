@@ -11,12 +11,8 @@
 
 <table>
 <tr>
-<td><img src="https://raw.githubusercontent.com/LeandroCell/LeandroCell/main/leo-ascii.svg" width="380"/></td>
-<td align="center" width="220">
-
-<img src="https://raw.githubusercontent.com/LeandroCell/LeandroCell/main/leo-name-ascii.svg" width="200"/>
-
-</td>
+<td><img src="https://raw.githubusercontent.com/LeandroCell/LeandroCell/main/leo-ascii.svg" width="370"/></td>
+<td><img src="https://raw.githubusercontent.com/LeandroCell/LeandroCell/main/leo-name-ascii.svg" width="490"/></td>
 </tr>
 </table>
 
