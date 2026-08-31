@@ -47,7 +47,7 @@ I am a Computer Science student and I like Data Engineering and Network.
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,python,sqlite,git,idea,vscode,ai&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java,sqlite,git,github,idea,vscode&theme=dark" />
 
 </div>
 
