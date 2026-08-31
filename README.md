@@ -22,7 +22,7 @@
 
 <h3><code>Leandro@github ~ $ ./links.sh</code></h3>
 
-<p><b>Learning Network · Fullstack Developement · Trainee</b></p>
+<p><b>Learning Network · Learning Fullstack · Trainee</b></p>
 
 <div align="center">
 
