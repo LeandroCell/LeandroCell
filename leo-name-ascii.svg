@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 606 276">
+<rect x="0.75" y="0.75" width="604" height="274" rx="12" fill="#0d1117" stroke="#30363d" stroke-width="1.5"/>
+<path d="M0.75,13 A12,12 0 0 1 13,0.75 H593 A12,12 0 0 1 605,13 V34 H0.75 Z" fill="#161b22"/>
+<line x1="0.75" y1="34" x2="605" y2="34" stroke="#30363d" stroke-width="1"/>
+<circle cx="24" cy="17" r="6.5" fill="#ff5f56"/>
+<circle cx="45" cy="17" r="6.5" fill="#ffbd2e"/>
+<circle cx="66" cy="17" r="6.5" fill="#27c93f"/>
+<text x="303" y="21" font-family="Consolas, Menlo, Courier New, monospace" font-size="13" fill="#8b949e" text-anchor="middle">Leandro@github: ~$ ./wordmark.sh --3d</text>
+<g transform="translate(18,46)">
+<text font-family="Consolas, Menlo, Courier New, monospace" font-size="10" fill="#e6edf3" xml:space="preserve">
+<tspan x="0" y="8.0" opacity="0">                                                                                               <animate attributeName="opacity" from="0" to="1" dur="0.12s" begin="0.00s" fill="freeze"/></tspan>
+<tspan x="0" y="18.0" opacity="0">         .    ..                   .                 ..                 .........              <animate attributeName="opacity" from="0" to="1" dur="0.12s" begin="0.05s" fill="freeze"/></tspan>
+<tspan x="0" y="28.0" opacity="0">      :-======--                .-====================-.           .--===+++=====---:.         <animate attributeName="opacity" from="0" to="1" dur="0.12s" begin="0.10s" fill="freeze"/></tspan>
+<tspan x="0" y="38.0" opacity="0">    -*##**#**+=:              :+###*****************+=-.        :=**#########****++==--:.      <animate attributeName="opacity" from="0" to="1" dur="0.12s" begin="0.15s" fill="freeze"/></tspan>
+<tspan x="0" y="48.0" opacity="0">  .%@@%%%%%#*+=:             *@@%%%%%%%%%%%%%%%%%%%#*=:       -*%%%@@@@@@@@%%%%%##**++=--:     <animate attributeName="opacity" from="0" to="1" dur="0.12s" begin="0.20s" fill="freeze"/></tspan>
+<tspan x="0" y="58.0" opacity="0">  .@@@@@@@%#*+=:             #@@@@@@@@@@@@@@@@@@@@%#=.      =#@@@@@@@@@@@@@@@@@@%%%##*+==-:    <animate attributeName="opacity" from="0" to="1" dur="0.12s" begin="0.25s" fill="freeze"/></tspan>
+<tspan x="0" y="68.0" opacity="0">  .%@@@@@@%#*+=:             #@@@@@@@%%%%%%%%%%%%%*:      -%@@@@@@@%#*+++*#@@@@@@@@%%#*+==-.   <animate attributeName="opacity" from="0" to="1" dur="0.12s" begin="0.30s" fill="freeze"/></tspan>
+<tspan x="0" y="78.0" opacity="0">  .%@@@@@@%#*+=:             #@@@@@@@%#+==---------:--:  +@@@@@@@%#+-      :*@@@@@@@%%#*+=-:   <animate attributeName="opacity" from="0" to="1" dur="0.12s" begin="0.35s" fill="freeze"/></tspan>
+<tspan x="0" y="88.0" opacity="0">  .%@@@@@@%#*+=:             #@@@@@@@%**++++++++++++=-: =@@@@@@@%#+=:        +@@@@@@@%%#*+-:   <animate attributeName="opacity" from="0" to="1" dur="0.12s" begin="0.40s" fill="freeze"/></tspan>
+<tspan x="0" y="98.0" opacity="0">  .%@@@@@@%#*+=:             #@@@@@@@%%%%%%%%%%%%%#*+-..%@@@@@@@%*+=:         #@@@@@@@%#*+=:   <animate attributeName="opacity" from="0" to="1" dur="0.12s" begin="0.45s" fill="freeze"/></tspan>
+<tspan x="0" y="108.0" opacity="0">  .%@@@@@@%#*+=:             #@@@@@@@@@@@@@@@@@@@%#*=. -@@@@@@@%#*+=-.        =@@@@@@@%#*+-:   <animate attributeName="opacity" from="0" to="1" dur="0.12s" begin="0.50s" fill="freeze"/></tspan>
+<tspan x="0" y="118.0" opacity="0">  .%@@@@@@%#*+=:             #@@@@@@@@@@@@@@@@@@@%+:   -@@@@@@@%#*+=-:        =@@@@@@@%#*=-    <animate attributeName="opacity" from="0" to="1" dur="0.12s" begin="0.55s" fill="freeze"/></tspan>
+<tspan x="0" y="128.0" opacity="0">  .%@@@@@@%#*+=:             #@@@@@@@%#**+=------:     :@@@@@@@%%#*+=-:.      +@@@@@@@%#+-.    <animate attributeName="opacity" from="0" to="1" dur="0.12s" begin="0.60s" fill="freeze"/></tspan>
+<tspan x="0" y="138.0" opacity="0">  .%@@@@@@%#*+=--------------#@@@@@@@%*+=-::::::::----::%@@@@@@@%#**+==--:...:%@@@@@@@%*-      <animate attributeName="opacity" from="0" to="1" dur="0.12s" begin="0.65s" fill="freeze"/></tspan>
+<tspan x="0" y="148.0" opacity="0">  .%@@@@@@%#**+++++++++++++=-#@@@@@@@%**++++++++++++++=:-%@@@@@@%%##**++====+%@@@@@@@%+.       <animate attributeName="opacity" from="0" to="1" dur="0.12s" begin="0.70s" fill="freeze"/></tspan>
+<tspan x="0" y="158.0" opacity="0">  .%@@@@@@%%%%%%%%%%%%%%%#*+-#@@@@@@@%%%%%%%%%%%%%%#*+=: -%@@@@@@@%%%######%@@@@@@@@*:         <animate attributeName="opacity" from="0" to="1" dur="0.12s" begin="0.75s" fill="freeze"/></tspan>
+<tspan x="0" y="168.0" opacity="0">  .%@@@@@@@@@@@@@@@@@@@@%#*-.#@@@@@@@@@@@@@@@@@@@@%#*=:   .+%@@@@@@@@@@@@@@@@@@@@%*:           <animate attributeName="opacity" from="0" to="1" dur="0.12s" begin="0.80s" fill="freeze"/></tspan>
+<tspan x="0" y="178.0" opacity="0">  .@@@@@@@@@@@@@@@@@@@@@%+:  #@@@@@@@@@@@@@@@@@@@@@*:       .-*%%@@@@@@@@@@@@%%*=.             <animate attributeName="opacity" from="0" to="1" dur="0.12s" begin="0.85s" fill="freeze"/></tspan>
+<tspan x="0" y="188.0" opacity="0">   ---------------------:    ---------------------:             .:-=++++++==-.                 <animate attributeName="opacity" from="0" to="1" dur="0.12s" begin="0.90s" fill="freeze"/></tspan>
+<tspan x="0" y="198.0" opacity="0">                                                                                               <animate attributeName="opacity" from="0" to="1" dur="0.12s" begin="0.95s" fill="freeze"/></tspan>
+</text>
+</g>
+</svg>
