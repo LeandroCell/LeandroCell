@@ -24,20 +24,20 @@ I am a Computer Science student and I like Data Engineering and Network.
 
 <div align="center">
 
-<img src="https://stats.pphat.top/stats?username=LeandroCell&theme=galaxy&hide_border=true" />
-<img src="https://stats.pphat.top/languages?username=LeandroCell&type=card&theme=galaxy" />
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=LeandroCell&show_icons=true&theme=radical&hide_border=true&bg_color=0d001a&title_color=a855f7&icon_color=a855f7&text_color=ffffff"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeandroCell&layout=compact&theme=radical&hide_border=true&bg_color=0d001a&title_color=a855f7"/>
 
-<img src="https://stats.pphat.top/badges?username=LeandroCell&name=followers,total-stars,total-commits&theme=galaxy&effect=wave&size=medium" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=LeandroCell&theme=radical&hide_border=true&background=0D001A&ring=A855F7&fire=A855F7&currStreakLabel=A855F7" />
 
 </div>
 
 ---
 
-### Contribution Activity
+### Contribution Snake
 
 <div align="center">
 
-<img src="https://stats.pphat.top/graph?username=LeandroCell&animate=wave&theme=galaxy" width="100%"/>
+<img src="https://raw.githubusercontent.com/LeandroCell/LeandroCell/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
 </div>
 
@@ -47,7 +47,7 @@ I am a Computer Science student and I like Data Engineering and Network.
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,sqlite,git,github,idea,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java,python,sqlite,git,vscode,idea&theme=dark" />
 
 </div>
 
