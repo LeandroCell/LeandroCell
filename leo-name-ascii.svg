@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 350 159">
+<defs><linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#c084fc"/><stop offset="100%" stop-color="#7c3aed"/></linearGradient></defs>
+<text font-family="Consolas, Menlo, Courier New, monospace" font-size="22" fill="url(#g)" xml:space="preserve">
+<tspan x="10" y="22.0">██╗     ███████╗ ██████╗ </tspan>
+<tspan x="10" y="45.1">██║     ██╔════╝██╔═══██╗</tspan>
+<tspan x="10" y="68.2">██║     █████╗  ██║   ██║</tspan>
+<tspan x="10" y="91.3">██║     ██╔══╝  ██║   ██║</tspan>
+<tspan x="10" y="114.4">███████╗███████╗╚██████╔╝</tspan>
+<tspan x="10" y="137.5">╚══════╝╚══════╝ ╚═════╝ </tspan>
+</text></svg>
