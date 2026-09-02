@@ -1102,7 +1102,11 @@
 <animate attributeName="opacity" from="0" to="1" dur="0.12s" begin="1.37s" fill="freeze"/>
 <animate attributeName="opacity" values="1;0.55;1" dur="2.2s" begin="1.70s" repeatCount="indefinite"/>
 </rect>
-<rect x="731" y="31" width="11" height="11" rx="2" fill="#161b22" opacity="0">
+<rect x="731" y="31" width="11" height="11" rx="2" fill="#39d353" opacity="0">
+<animate attributeName="opacity" from="0" to="1" dur="0.12s" begin="1.37s" fill="freeze"/>
+<animate attributeName="opacity" values="1;0.55;1" dur="2.2s" begin="1.70s" repeatCount="indefinite"/>
+</rect>
+<rect x="731" y="45" width="11" height="11" rx="2" fill="#161b22" opacity="0">
 <animate attributeName="opacity" from="0" to="1" dur="0.12s" begin="1.37s" fill="freeze"/>
 </rect>
 </svg>
