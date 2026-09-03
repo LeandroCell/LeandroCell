@@ -49,7 +49,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,python,sqlite,git,vscode,idea&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java,python,sqlite,html,css,git,vscode,idea&theme=dark" />
 
 </div>
 
